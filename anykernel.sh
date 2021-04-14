@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SiLonT-Kernel
+kernel.string=KNTL-Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1971
-device.name2=RMX1971CN
-device.name3=RMX1971EX
+device.name1=RMX1851
+device.name2=RMX1851CN
+device.name3=RMX1851EX
 device.name4=
 device.name5=
 supported.versions=
